@@ -2,6 +2,7 @@
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
+[solidYellow]: ./test_videos_output/SolidYellow.gif "SolidYellow"
 
 ### Reflection
 
@@ -28,6 +29,7 @@ In order to draw a single line on the left and right lanes, I took the following
 * An example video without average for x frame is [here](https://youtu.be/4qE7ZmfUu3c). Note: check time at 8, 11, 16 sec
 * An example video with average x  = 10 frame is [here](https://youtu.be/cqIRP9MVjzA).
 
+![alt text][solidYellow]
 
 ### 2. Identify potential shortcomings with your current pipeline
 
